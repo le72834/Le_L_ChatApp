@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "startdev": "nodemon app & browser-sync start --proxy 'localhost:5050' --files 'index.html' 'public'",
+    "startdev": "nodemon app",
+    "startui": "browser-sync start --proxy 'localhost:5050' --files 'index.html' 'public'",
     "start": "node app"
   },
   "keywords": [],
