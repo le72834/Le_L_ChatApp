@@ -1,3 +1,4 @@
+
 # Chat App
 This is an interactive chat application. You can login or registration with the name you want and let's chat!
 
@@ -38,3 +39,6 @@ Linh Le
 
 ## License
 MIT
+=======
+# Le_L_ChatApp
+
