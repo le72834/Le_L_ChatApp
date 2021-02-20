@@ -1,3 +1,4 @@
+
 # Chat App
 This is an interactive chat application. You can login or registration with the name you want and let's chat! You can visit the live version [here](https://ll-chat-app1.herokuapp.com/).
 
@@ -35,6 +36,8 @@ Clone this to the location of your choice, open in your favourite editor and hac
 ### Credits
 Linh Le 
 
-
 ### License
 MIT
+
+
+
